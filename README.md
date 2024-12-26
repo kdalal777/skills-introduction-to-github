@@ -5,7 +5,7 @@ I am Kirti Dalal. I am passionate about content creation. I have 4 years of expe
 
 ---
 
-##  Repository Contents
+##  My Projects
 - **Glossary Project: (https://www.persistent.com/glossary/)**
 
 
