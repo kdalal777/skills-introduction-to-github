@@ -1,7 +1,7 @@
 # My Portfolio
 
 Welcome to my GitHub Portfolio! 
-I am Kirti Dalal. I am passionate about content creation. I have 4 years of experience in the content creation field. Presently, I am learning new things to polish up my technical writing skills. Every day is a new learning day for me. This repository will showcase my projects, case studies, and accomplishments in the technical writing field as I progress.
+I am Kirti Dalal. I am passionate about content creation. I have 4 years of experience in the content creation field. Presently, I am learning new things to enhance my technical writing skills. Every day is a new learning day for me. This repository will showcase my projects, case studies, and accomplishments in the technical writing field as I progress.
 
 ---
 
@@ -14,7 +14,11 @@ I am Kirti Dalal. I am passionate about content creation. I have 4 years of expe
 
 
 - **[Writing Samples](https://copyfol.io/v/nbzd8bgz)**  
-  Articles, blogs, and whitepapers: My content expertise.
+  Articles, blogs, and whitepapers
+
+- **[Driving Business Agility with Self Service Data Management](https://modak.com/portfolio/driving-business-agility-with-self-service-data-management/)**
+
+- **[Transforming IT Landscape with Managed Services](https://modak.com/portfolio/transforming-it-landscape-with-managed-services/)**
 
 ---
 
