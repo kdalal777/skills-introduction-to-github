@@ -12,9 +12,7 @@ I am Kirti Dalal. I am passionate about content creation. I have 4 years of expe
 - **[Cloud Modernization Blog: Demystifying Cloud Modernization](https://persistent.com/blogs/demystifying-cloud-modernization/)**  
   Explores the challenges and benefits of modernizing legacy systems, offering actionable insights for organizations embarking on their cloud transformation journey.
 
-
-- **[Writing Samples](https://copyfol.io/v/nbzd8bgz)**  
-  Articles, blogs, and whitepapers
+- **[Accelerating Business Value through DataOps](https://modak.com/portfolio/accelerating-business-value-through-dataops/)**  
 
 - **[Driving Business Agility with Self Service Data Management](https://modak.com/portfolio/driving-business-agility-with-self-service-data-management/)**
 
